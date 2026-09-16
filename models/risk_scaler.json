@@ -1,0 +1,5 @@
+{
+  "mode": "linear_prob_x100",
+  "high_risk_prob_cutoff": 0.9973039031028748,
+  "high_risk_pctl": 99.0
+}

@@ -1,0 +1,9 @@
+{
+  "pr_auc": 0.5657,
+  "roc_auc": 0.9113,
+  "precision_at_top1pct": 0.9035,
+  "best_iteration": 1992,
+  "scale_pos_weight": 27.46,
+  "n_features": 434,
+  "valid_rows": 118108
+}
